@@ -1,0 +1,15 @@
+img{
+        display: inline-block;
+}
+div.heading-par>p{
+  #margin-bottom:0;
+}
+div.index{
+         margin: 20px 70px;
+         border: 2px solid blueviolet;
+         padding-bottom: 30px;
+ }
+
+div.index>h5{
+        margin-bottom: 5px;
+}
