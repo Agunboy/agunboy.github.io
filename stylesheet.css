@@ -2,7 +2,7 @@ body {
   color: azure;
   background:black;
   text-align: center;
-  width: 700px;
+  width: 900px;
   margin: auto auto auto auto;
   font-family: "monospace","Courier","Helvetica";
   #font-family: "Courier";
@@ -27,6 +27,10 @@ html {
 }
 ul {
   list-style: none;
+  text-align: left;
+  display: inline-block;
+  margin: auto auto;
+
 }
 ul li::before{
   content: "\2022";
@@ -61,7 +65,14 @@ footer{
 }
 #content>div.maintext{
         margin:20px 5px;
-        border:2px solid blueviolet;
-        padding: 30px 20px;
+        border:2px dashed blueviolet;
+        padding: 20px 20px;
         padding-top:20px;
+        text-align: left;
+}
+iframe{
+        display: block;
+        text-align: center;
+        margin: 35px auto;
+        border: 2px solid blueviolet;
 }
