@@ -30,7 +30,6 @@ ul {
   text-align: left;
   display: inline-block;
   margin: auto auto;
-
 }
 ul li::before{
   content: "\2022";
