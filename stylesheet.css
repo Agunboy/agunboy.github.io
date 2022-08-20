@@ -2,14 +2,14 @@ body {
   color: azure;
   background:black;
   text-align: center;
-  width: 900px;
+  width: 1000px;
   margin: auto auto auto auto;
   font-family: "monospace","Courier","Helvetica";
   #font-family: "Courier";
   #line-height: 22px;
 }
 html {
- background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallpoper.com%2Fimages%2F00%2F28%2F90%2F21%2Fpurple-patterns_00289021.jpg&f=1&nofb=1');
+ background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Fviolet_fractal_mesh_hd_trippy-HD.jpg&f=1&nofb=1'); 
  background-repeat: repeat-y;
  background-position: right-top;
  background-size: cover;
@@ -63,7 +63,7 @@ footer{
   margin-top: 40px;
 }
 #content>div.maintext{
-        margin:20px 5px;
+        margin:20px 50px;
         border:2px dashed blueviolet;
         padding: 20px 20px;
         padding-top:20px;
